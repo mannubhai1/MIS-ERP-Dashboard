@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Manufacturing Execution system",
+    "status": "In Progress",
+    "currentStatus": "Manufacturing workflow, POC and Machinery list of all BU have been shared with all the vendors after signing NDA with them. \nTCS questionnaire completed and shared with all vendors. \nAveva questionnaire has been completed. \nSiemens questionnaire has been completed and shared with them.",
+    "nextStep": "Phase 1 : Implementation of MES of seamless, DIP and ISP \nPhase 2 : Implementation of Latex, Biomass and Nitrile \nPhase 3 : Implementation of Fitting",
+    "challenges": "None",
+    "targetDate": "2025-03-30",
+    "primaryContact": "Tharun/Pritam/Dubey/Zainab/Shanmuka/Ravi/Kartavya",
+    "businessUsers": "Vidhyaprakash Ji / Alamin Ji / Shayam Ji / Prabhat Ji/ Abhishek Ji"
+  },
+  {
+    "name": "Oracle",
+    "status": "Delayed",
+    "currentStatus": "Commercial proposal received on 17th March \nShared approx. user count with ±10% margin for flexibility with Oracle. \nTechno-commercial discussion is scheduled on 25th March.",
+    "nextStep": "Awaiting final user count post internal decision, followed by negotiation and full-fledged commercial rollout. \nRequest phase-wise implementation plan from Oracle.\nEnsure free data write and read-back from third-party systems.",
+    "challenges": "Bi-directional data transfer between systems is chargeable.",
+    "targetDate": "Not yet finalised",
+    "primaryContact": "Karthik / Harsh / Arjun",
+    "businessUsers": "Gopal Ji / Ranbir Ji "
+  },
+  {
+    "name": "Protiviti Payroll",
+    "status": "Delayed",
+    "currentStatus": "Commercial proposal received on 17th March \nShared approx. user count with ±10% margin for flexibility with Oracle. \nTechno-commercial discussion is scheduled on 25th March.",
+    "nextStep": "Signing of MSA.\nImplementation plan to be shared by Protiviti.",
+    "challenges": "None",
+    "targetDate": "2025-03-22",
+    "primaryContact": "Jyoshna",
+    "businessUsers": "Ashish Ji"
+  },
+  {
+    "name": "Contractual labour compliance and management system",
+    "status": "Delayed",
+    "currentStatus": "Final techno-commercial offer compared to CQUEL agreement has been received.\nComparative of all 3 vendors has been made and shared with management.\nAparajitha has been selected for immediate on-boarding.",
+    "nextStep": "They will be visiting the plant for negotiation and signoff on 25th March.",
+    "challenges": "Negotiation and revised SOW",
+    "targetDate": "2025-03-25",
+    "primaryContact": "Anirban Ji",
+    "businessUsers": "Abhishek Ji"
+  },
+  {
+    "name": "Fleet and Fuel monitoring",
+    "status": "In Progress",
+    "currentStatus": "MOBA has offered 13 lacs higher in yearly cost than fretron for 221 machines , but MOBA AMC is Rs 3 lakh less per year than fretron AMC \nMOBA representatives visited and had a discussion on FLMS with CEO Sir on 18th and 19th of March.",
+    "nextStep": "Reviewing of agreement provided by MOBA is in process. \nCommercial negotiation to be done by 25th March. \nAwaiting management decision to choose between Fretron and MOBA",
+    "challenges": "None",
+    "targetDate": "2025-03-25",
+    "primaryContact": "Karthik / Harsh",
+    "businessUsers": "Kaushik Ji/ Sarangi Ji / Dharmpal Ji"
+  },
+  {
+    "name": "Forecasting and Planning",
+    "status": "In Progress",
+    "currentStatus": "Both Vendors visited seamless plant on 11th and 12th March. \nCommercial proposal of o9 was shared on 13th March.",
+    "nextStep": "The process will advance further upon the joining of the new planning head. \no9 SOW need to be shared with ORACLE for discussion.",
+    "challenges": "One-on-one meeting with Business users",
+    "targetDate": "2025-03-30",
+    "primaryContact": "Pritam / Manurbhav",
+    "businessUsers": "Vidyaprakash Ji"
+  }
+]
