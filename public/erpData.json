@@ -1,17 +1,17 @@
 [
   {
     "name": "Manufacturing Execution system",
-    "status": "In Progress",
-    "currentStatus": "Manufacturing workflow, POC and Machinery list of all BU have been shared with all the vendors after signing NDA with them. \nTCS questionnaire completed and shared with all vendors. \nAveva questionnaire has been completed. \nSiemens questionnaire has been completed and shared with them.",
-    "nextStep": "Phase 1 : Implementation of MES of seamless, DIP and ISP \nPhase 2 : Implementation of Latex, Biomass and Nitrile \nPhase 3 : Implementation of Fitting",
-    "challenges": "None",
-    "targetDate": "2025-03-30",
+    "status": "Delayed",
+    "currentStatus": "Plant visits for GE, Siemens and Aveva has been completed on 22nd March.\nPlant visit for Rockwell will commence from 25th March.\nTechno commercials is expected by 28th March.\nRequest Brochure, Use cases, and presentation from all the vendors.",
+    "nextStep": "Once proposal is received from all the vendors, comparative will be completed by 31st March and will be presented to the management.",
+    "challenges": "Delay in Techno-commercial offers.",
+    "targetDate": "1st week of April",
     "primaryContact": "Tharun/Pritam/Dubey/Zainab/Shanmuka/Ravi/Kartavya",
     "businessUsers": "Vidhyaprakash Ji / Alamin Ji / Shayam Ji / Prabhat Ji/ Abhishek Ji"
   },
   {
     "name": "Oracle",
-    "status": "Delayed",
+    "status": "In Progress",
     "currentStatus": "Commercial proposal received on 17th March \nShared approx. user count with ±10% margin for flexibility with Oracle. \nTechno-commercial discussion is scheduled on 25th March.",
     "nextStep": "Awaiting final user count post internal decision, followed by negotiation and full-fledged commercial rollout. \nRequest phase-wise implementation plan from Oracle.\nEnsure free data write and read-back from third-party systems.",
     "challenges": "Bi-directional data transfer between systems is chargeable.",
@@ -22,10 +22,10 @@
   {
     "name": "Protiviti Payroll",
     "status": "Delayed",
-    "currentStatus": "Commercial proposal received on 17th March \nShared approx. user count with ±10% margin for flexibility with Oracle. \nTechno-commercial discussion is scheduled on 25th March.",
-    "nextStep": "Signing of MSA.\nImplementation plan to be shared by Protiviti.",
+    "currentStatus": "Negotiation of techno-commercial is completed.\nE-signing of MSA by protiviti will be done by 24th March.",
+    "nextStep": "Protiviti will immediately revert back with manpower deployment plan and along with 2 month implementation plan.\nProtiviti Senior manager to visit RML on 1st April.",
     "challenges": "None",
-    "targetDate": "2025-03-22",
+    "targetDate": "2025-03-24",
     "primaryContact": "Jyoshna",
     "businessUsers": "Ashish Ji"
   },
@@ -35,7 +35,7 @@
     "currentStatus": "Final techno-commercial offer compared to CQUEL agreement has been received.\nComparative of all 3 vendors has been made and shared with management.\nAparajitha has been selected for immediate on-boarding.",
     "nextStep": "They will be visiting the plant for negotiation and signoff on 25th March.",
     "challenges": "Negotiation and revised SOW",
-    "targetDate": "2025-03-25",
+    "targetDate": "2025-03-27",
     "primaryContact": "Anirban Ji",
     "businessUsers": "Abhishek Ji"
   },
