@@ -36,7 +36,7 @@ export default function ERPCard({ item }: ERPCardProps) {
     <div
       className={`bg-white p-6 md:p-8 rounded-xl shadow-md transition-transform hover:scale-105 hover:shadow-xl border-l-8 ${statusClass} w-full`}
     >
-      <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-6 break-words">
+      <h2 className="text-xl md:text-2xl font-bold text-gray-800 mb-6 break-words">
         {item.name}
       </h2>
 
@@ -45,7 +45,7 @@ export default function ERPCard({ item }: ERPCardProps) {
         {/* Status */}
         <div className="flex items-center gap-2 min-w-0">
           <FiCheckCircle
-            className={`text-2xl ${
+            className={`text-xl md:text-2xl ${
               statusColors[item.status] || "text-gray-500"
             }`}
           />
@@ -57,7 +57,7 @@ export default function ERPCard({ item }: ERPCardProps) {
 
         {/* Next Step */}
         <div className="flex items-center gap-2 min-w-0">
-          <FiArrowRightCircle className="text-blue-500 text-2xl" />
+          <FiArrowRightCircle className="text-blue-500 text-xl md:text-2xl" />
           <p className="text-lg font-medium">Next Step:</p>
         </div>
         <p className="text-gray-600 whitespace-pre-wrap break-words min-w-0">
@@ -66,7 +66,7 @@ export default function ERPCard({ item }: ERPCardProps) {
 
         {/* Challenges */}
         <div className="flex items-center gap-2 min-w-0">
-          <FiAlertCircle className="text-yellow-500 text-2xl" />
+          <FiAlertCircle className="text-yellow-500 text-xl md:text-2xl" />
           <p className="text-lg font-medium">Challenges:</p>
         </div>
         <p className="text-gray-600 whitespace-pre-wrap break-words min-w-0">
@@ -75,7 +75,7 @@ export default function ERPCard({ item }: ERPCardProps) {
 
         {/* Target Date */}
         <div className="flex items-center gap-2 min-w-0">
-          <FiClock className="text-gray-500 text-2xl" />
+          <FiClock className="text-gray-500 text-xl md:text-2xl" />
           <p className="text-lg font-medium">Target Date:</p>
         </div>
         <p className="text-gray-600 whitespace-pre-wrap break-words min-w-0">
@@ -84,7 +84,7 @@ export default function ERPCard({ item }: ERPCardProps) {
 
         {/* Primary Contact */}
         <div className="flex items-center gap-2 min-w-0">
-          <FiUser className="text-indigo-500 text-2xl" />
+          <FiUser className="text-indigo-500 text-xl md:text-2xl" />
           <p className="text-lg font-medium">Primary Contact:</p>
         </div>
         <p className="text-gray-600 whitespace-pre-wrap break-words min-w-0">
@@ -93,7 +93,7 @@ export default function ERPCard({ item }: ERPCardProps) {
 
         {/* Business Users */}
         <div className="flex items-center gap-2 min-w-0">
-          <FiUser className="text-green-500 text-2xl" />
+          <FiUser className="text-green-500 text-xl md:text-2xl" />
           <p className="text-lg font-medium">Business Users:</p>
         </div>
         <p className="text-gray-600 whitespace-pre-wrap break-words min-w-0">
