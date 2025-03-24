@@ -43,7 +43,7 @@ export default function ERPCard({ item }: ERPCardProps) {
       {/* Responsive grid layout */}
       <div className="grid grid-cols-1 md:grid-cols-[170px_1fr] gap-y-6 gap-x-4">
         {/* Status */}
-        <div className="flex items-center gap-2 min-w-0">
+        <div className="flex items-center gap-2 min-w-0 ">
           <FiCheckCircle
             className={`text-xl md:text-2xl ${
               statusColors[item.status] || "text-gray-500"
@@ -51,7 +51,7 @@ export default function ERPCard({ item }: ERPCardProps) {
           />
           <p className="text-lg font-medium">Status:</p>
         </div>
-        <p className="text-gray-600 whitespace-pre-wrap break-words min-w-0">
+        <p className="text-gray-600 whitespace-pre-wrap break-words min-w-0 ">
           {item.status}
         </p>
 
